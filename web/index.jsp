@@ -1,7 +1,7 @@
 <%-- 
     Document   : inicio
     Created on : Sep 16, 2022, 10:09:51 AM
-    Author     : Jonathan
+    Author     : Miguel
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
